@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  color: #252525;
+  background-color:  rgb(244, 239, 239);
+}
+
+button {
+  background-color: rgb(35, 64, 205);
+  box-shadow: rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 12%) 0px 1px 1px 0px, rgb(84 105 212) 0px 0px 0px 1px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(60 66 87 / 8%) 0px 2px 5px 0px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 20px;
+  cursor: pointer;
+  width: 300px;
+  height: 40px;
+  border: none;
+}
+
+/* button:hover,
+button:active {
+  background-color: #5b14ac;
+  border-color: #5b14ac;
+} */
